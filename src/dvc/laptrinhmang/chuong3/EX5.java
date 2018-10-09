@@ -1,4 +1,4 @@
-package com.company;
+package dvc.laptrinhmang.chuong3.bai3;
 import java.net.URL;
 import java.net.URLConnection;
 import java.util.Date;
